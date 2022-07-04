@@ -1,3 +1,18 @@
 #write{
-    color: aqua;
+    color: firebrick;
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+}
+
+#write h1{
+    font-size: 40px;
+}
+
+#write p{
+    font-size: 28px;
+}
+
+.image{
+    width: 400px;
 }
